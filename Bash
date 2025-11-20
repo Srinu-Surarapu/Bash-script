@@ -1,2 +1,4 @@
 Welcome to frontlines media 
-You are learning Aws DevOps 
+You are learning Aws DevOps
+Azure 
+GCP
